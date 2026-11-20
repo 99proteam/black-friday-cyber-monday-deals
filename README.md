@@ -124,7 +124,7 @@ We'd greatly appreciate if you could:
 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | **BF2025** - 30% OFF | Nov 25 - Dec 1 | ✅ |
 | [Startup Buffer](https://startupbuffer.com/) | A curated directory that helps founders discover startup resources, tools, and deals to launch and grow their businesses | **BF50** - 50% off | Ends Dec 7 | ✅ |
 | [Webhookify](https://webhookify.io/) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **BLACKFRIDAY2025** - 70% off | Ends Dec 14 | ✅ |
-
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | Complete business software bundle: all 11 products — restaurant system, e-commerce system, billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically | 87% off — $129 one-time for all 11 (regular $1,029) with code BUNDLE129 | Ends Dec 1, 2026 | ✅ |
 ## Books for developers and software engineers
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
